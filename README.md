@@ -1,4 +1,4 @@
-Hi 👋 My name is Ridham Saini
+Hi, My name is Ridham Saini
 =============================
 
 Game Developer
